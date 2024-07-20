@@ -1,0 +1,5 @@
+bastion_ami: ami-0beaa649c482330f7 # Amazon Linux-2 AMI-ID from us-east-2 region
+region: us-east-2
+MYIP: IP_address_of_your_laptop/32
+keyName: vprofile-key
+instanceType: t2.micro
